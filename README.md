@@ -1,4 +1,5 @@
-# Old Photo Restoration (Official PyTorch Implementation)
+
+<!--# Old Photo Restoration (Official PyTorch Implementation)
 
 <img src='imgs/0001.jpg'/>
 
@@ -233,3 +234,5 @@ This project is currently maintained by Ziyu Wan and is for academic research us
 The codes and the pretrained model in this repository are under the MIT license as specified by the LICENSE file. We use our labeled dataset to train the scratch detection model.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+-->
